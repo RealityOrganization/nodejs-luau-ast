@@ -1,0 +1,5 @@
+{
+  "rewrites": [
+    { "source": "/ast", "destination": "/api/ast.js" }
+  ]
+}
